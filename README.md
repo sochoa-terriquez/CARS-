@@ -1,0 +1,1 @@
+This project uses Python to analyze a car dataset and study fuel efficiency trends. The program creates charts, checks for missing values, performs ANOVA testing, and uses regression analysis to predict MPG_City using Horsepower and Weight.  Language used: Python Libraries used: pandas, matplotlib, scipy, statsmodels, scikit-learn, numpy
